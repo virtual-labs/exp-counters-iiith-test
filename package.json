@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/virtual-labs/exp-counters-iiith-test#readme",
   "dependencies": {
-    "vlabs-buildexp": "^3.0.8"
+    "vlabs-buildexp": "^3.0.9"
   }
 }
