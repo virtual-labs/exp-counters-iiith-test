@@ -22,14 +22,3 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | . | . | . | . | .
 2 | . | . | . | . | .
-
-checking
-testing locally
-testing locally twice
-testing locally thrice
-changes
-changes2
-changes3
-changes4 
-changes5
-changes6
