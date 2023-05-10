@@ -22,3 +22,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | . | . | . | . | .
 2 | . | . | . | . | .
+
+This is the template which can be filled by the developer.
