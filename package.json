@@ -1,0 +1,23 @@
+{
+  "name": "exp-counters-iiith-test",
+  "version": "1.0.0",
+  "description": "<b>Discipline | <b>Fill your discipline name here\r :--|:--|\r <b> Lab | <b> Fill your lab name here\r <b> Experiment|     <b> Fill your experiment name and number here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtual-labs/exp-counters-iiith-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virtual-labs/exp-counters-iiith-test/issues"
+  },
+  "homepage": "https://github.com/virtual-labs/exp-counters-iiith-test#readme",
+  "dependencies": {
+    "vlabs-buildexp": "^3.1.6"
+  }
+}
